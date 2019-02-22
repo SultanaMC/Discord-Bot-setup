@@ -1,2 +1,1 @@
-# asdasd
-aasda
+# SultanaMC Discord Bot setup
